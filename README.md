@@ -81,3 +81,92 @@ Harrison T. Barrow III, Attorney at Law, PC
 [CITY], MA [ZIP]
 Telephone: [PHONE]
 Email: [EMAIL]
+
+
+# SMS Terms and Conditions
+
+**Harrison T. Barrow III, Attorney at Law, PC**
+Last updated: [DATE]
+
+## 1. Program Description
+
+Harrison T. Barrow III, Attorney at Law, PC ("the Firm," "we," "us," or "our") offers an SMS text-messaging program ("Program") to facilitate one-to-one communication between the Firm and existing clients, and limited communication with prospective clients who have inquired about legal services. The Program is **not** a marketing or promotional service. We will not use the Program to send advertising, solicitation, or unsolicited content.
+
+Typical messages include:
+
+- Appointment scheduling, confirmation, and reminders;
+- Court date reminders and notices of continuances;
+- Document and information requests related to your matter;
+- Conversational replies to questions you initiate; and
+- Administrative communications related to representation.
+
+## 2. Consent and Opt-In
+
+By providing your mobile telephone number to the Firm through our intake form, in person, in writing, or by replying "YES" or "START" to a message from us, you consent to receive non-marketing SMS text messages from the Firm at that number. Your consent is not a condition of purchasing any goods or services and is not a condition of representation.
+
+You represent that you are the subscriber or customary user of the mobile number you provide, that you are at least 18 years of age, and that you have the authority to consent to receive text messages at that number.
+
+## 3. Message Frequency
+
+Message frequency varies and depends on the status of your matter and your communications with the Firm. The Program is conversational; you should expect messages only when there is a substantive reason to send one.
+
+## 4. Message and Data Rates
+
+**Message and data rates may apply.** Your mobile carrier may charge for each message sent or received under your wireless plan. The Firm is not responsible for any such charges. Contact your wireless provider for plan details.
+
+## 5. Supported Carriers
+
+The Program is generally available on major U.S. wireless carriers. Carriers are not liable for delayed or undelivered messages.
+
+## 6. Opting Out
+
+You may opt out of the Program at any time by replying **STOP** to any message from the Firm. You may also reply CANCEL, END, QUIT, UNSUBSCRIBE, or STOPALL. Upon receipt, the Firm will send a single confirmation message and will not send further SMS messages to your number through the Program.
+
+**Important:** Opting out of the Program does **not** terminate the attorney-client relationship and does **not** relieve the Firm of any obligation to communicate with you regarding your matter through other channels (telephone, email, U.S. mail, or in-person meeting). If you opt out, please ensure the Firm has an alternative means of reaching you.
+
+To rejoin the Program after opting out, reply **START** or **UNSTOP**, or contact the Firm directly.
+
+## 7. Help
+
+For assistance, reply **HELP** to any message from the Firm, call the Firm at [PHONE], or email [EMAIL].
+
+## 8. Confidentiality and Attorney-Client Communications
+
+SMS text messages are transmitted over carrier networks that are not encrypted end-to-end. Messages may be stored on your device, on the Firm's devices and systems, and on carrier and aggregator systems, and may be accessible to persons other than you or the Firm.
+
+By using the Program, you acknowledge and consent to communicating with the Firm by SMS notwithstanding these limitations, and you understand that:
+
+- SMS is not a secure or confidential channel and should not be used for highly sensitive disclosures;
+- Persons with access to your mobile device may read your messages;
+- The Firm cannot guarantee the confidentiality of SMS communications and recommends that substantive case discussions occur by telephone, in person, or through other channels designated by the Firm; and
+- Use of the Program does not waive the attorney-client privilege or work-product protection as to the underlying matter, but the privileged status of any particular SMS communication may be affected by the channel.
+
+This Program is offered consistent with the Firm's obligations under Massachusetts Rules of Professional Conduct, including Rules 1.4 (Communications), 1.6 (Confidentiality of Information), and, with respect to prospective clients, Rule 1.18 (Duties to Prospective Client).
+
+## 9. No Attorney-Client Relationship Formed by SMS Alone
+
+If you are not already a client of the Firm, sending an SMS message to the Firm does not create an attorney-client relationship. An attorney-client relationship is formed only by a signed written engagement agreement with the Firm. Until such an agreement is in place, please do not transmit confidential information by SMS or otherwise.
+
+## 10. Limitations
+
+The Program is not intended for emergencies. **If you have an emergency, call 911.** The Firm does not monitor SMS messages continuously and cannot guarantee a response within any particular time frame. Court deadlines, statutes of limitations, and other time-sensitive matters should not be communicated solely by SMS.
+
+## 11. Changes to These Terms
+
+The Firm may modify these Terms from time to time. Material changes will be posted at [URL] with an updated "Last updated" date. Continued participation in the Program after changes are posted constitutes acceptance of the revised Terms.
+
+## 12. Governing Law
+
+These Terms are governed by the laws of the Commonwealth of Massachusetts, without regard to conflict-of-laws principles. Any dispute arising out of or relating to the Program shall be subject to the exclusive jurisdiction of the state and federal courts located in Barnstable County, Massachusetts.
+
+## 13. Contact
+
+Harrison T. Barrow III, Attorney at Law, PC
+[STREET ADDRESS]
+[CITY], MA [ZIP]
+Telephone: [PHONE]
+Email: [EMAIL]
+Website: [URL]
+
+Related: see our [SMS Privacy Statement]([PRIVACY URL]).
+
